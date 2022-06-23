@@ -1,6 +1,6 @@
-## Пакеты
-Установить пакеты необходимо командой __pip install -r requirements.txt__  
-Список входящих пакетов:  
+## Packages
+You can install packages using command __pip install -r requirements.txt__  
+List of packages:  
 ```
 atomicwrites==1.4.0  
 attrs==21.4.0  
@@ -19,11 +19,11 @@ tomli==2.0.1
 urllib3==1.26.9
 ```
 ---
-## test - Папка с тестами  
-__test_battery__ - Тесты Battery  
-__test_brake_pedal__  - Тесты BrakePedal  
-__test_gear_shifter__  - Тесты GearShifter  
-__test_acc_pedal_and_req_torque__ - Тесты AccelerationPedal и RequestedTorque
+## test - Directory with tests 
+__test_battery__ - Tests Battery  
+__test_brake_pedal__  - Tests BrakePedal  
+__test_gear_shifter__  - Tests GearShifter  
+__test_acc_pedal_and_req_torque__ - Tests AccelerationPedal and RequestedTorque
 ---
 ## config.py  
-__URL__ - параметр с ссылком тестируемого сервиса
+__URL__ - param with url address of testing service
